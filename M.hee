@@ -2504,4 +2504,4 @@ TweenService:Create(
 	end
 	return Tabs
 end
-return Lib
+return LibMain
